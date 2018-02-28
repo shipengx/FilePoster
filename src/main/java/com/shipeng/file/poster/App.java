@@ -1,4 +1,4 @@
-package com.shipeng.FilePoster;
+package com.shipeng.file.poster;
 
 /**
  * Hello world!
